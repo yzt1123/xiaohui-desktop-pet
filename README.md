@@ -6,7 +6,7 @@
 
 ## 下载
 
-到 [Releases](https://github.com/yzt1123/xiaohui-desktop-pet/releases/latest) 里下载 `小灰桌宠-v1.0.zip`，解压到任意一个文件夹（建议桌面或 D 盘，别放 `C:\Program Files`），双击里面的 `小灰桌宠.exe` 就能用。
+到 [Releases](https://github.com/yzt1123/xiaohui-desktop-pet/releases/latest) 里下载 `xiaohui-pet-v1.0.zip`（约 38 MB），解压到任意一个文件夹（建议桌面或 D 盘，别放 `C:\Program Files`），双击里面的 `小灰桌宠.exe` 就能用。
 
 不需要装 Python，也不需要装任何运行库。
 
